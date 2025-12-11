@@ -1,0 +1,4528 @@
+[
+  {
+    "frame": 1,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (171.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 139.96926171411906,
+      "elbow_left_smooth": 139.96926171411906
+    }
+  },
+  {
+    "frame": 2,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (171.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 141.80125926097097,
+      "elbow_left_smooth": 140.885260487545
+    }
+  },
+  {
+    "frame": 3,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (171.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 144.75743306461564,
+      "elbow_left_smooth": 142.17598467990186
+    }
+  },
+  {
+    "frame": 4,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (171.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 147.43804881307884,
+      "elbow_left_smooth": 143.4915007131961
+    }
+  },
+  {
+    "frame": 5,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (171.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 151.54707754571194,
+      "elbow_left_smooth": 145.1026160796993
+    }
+  },
+  {
+    "frame": 6,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (170.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 157.4079935635339,
+      "elbow_left_smooth": 148.59036244958224
+    }
+  },
+  {
+    "frame": 7,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (170.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 164.42788878726742,
+      "elbow_left_smooth": 153.11568835484155
+    }
+  },
+  {
+    "frame": 8,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (170.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 172.29079467752206,
+      "elbow_left_smooth": 158.62236067742282
+    }
+  },
+  {
+    "frame": 9,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (169.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 174.24261463873486,
+      "elbow_left_smooth": 163.98327384255404
+    }
+  },
+  {
+    "frame": 10,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (169.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.4112829988318,
+      "elbow_left_smooth": 169.156114933178
+    }
+  },
+  {
+    "frame": 11,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (169.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.5180060468937,
+      "elbow_left_smooth": 173.57811742984995
+    }
+  },
+  {
+    "frame": 12,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (169.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.5818454314214,
+      "elbow_left_smooth": 176.60890875868077
+    }
+  },
+  {
+    "frame": 13,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (169.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.61132382397807,
+      "elbow_left_smooth": 178.07301458797198
+    }
+  },
+  {
+    "frame": 14,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (168.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.72931121379713,
+      "elbow_left_smooth": 179.17035390298443
+    }
+  },
+  {
+    "frame": 15,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (168.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.98917390187455,
+      "elbow_left_smooth": 179.48593208359299
+    }
+  },
+  {
+    "frame": 16,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (169.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.94558307347944,
+      "elbow_left_smooth": 179.37144748891015
+    }
+  },
+  {
+    "frame": 17,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (169.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.64464493291322,
+      "elbow_left_smooth": 179.3840073892085
+    }
+  },
+  {
+    "frame": 18,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (169.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.12175179192013,
+      "elbow_left_smooth": 179.08609298279688
+    }
+  },
+  {
+    "frame": 19,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (170.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.539897308478,
+      "elbow_left_smooth": 178.44821020173305
+    }
+  },
+  {
+    "frame": 20,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (171.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 174.6005915427592,
+      "elbow_left_smooth": 177.57049372990997
+    }
+  },
+  {
+    "frame": 21,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 172.84923587144777,
+      "elbow_left_smooth": 176.35122428950368
+    }
+  },
+  {
+    "frame": 22,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 171.46369030529715,
+      "elbow_left_smooth": 174.71503336398047
+    }
+  },
+  {
+    "frame": 23,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 172.19432008190776,
+      "elbow_left_smooth": 173.52954702197798
+    }
+  },
+  {
+    "frame": 24,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (175.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 172.0430102821924,
+      "elbow_left_smooth": 172.63016961672088
+    }
+  },
+  {
+    "frame": 25,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (176.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 172.41519199485842,
+      "elbow_left_smooth": 172.1930897071407
+    }
+  },
+  {
+    "frame": 26,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (176.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 171.70102715413066,
+      "elbow_left_smooth": 171.96344796367728
+    }
+  },
+  {
+    "frame": 27,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (177.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 171.28532676386007,
+      "elbow_left_smooth": 171.92777525538986
+    }
+  },
+  {
+    "frame": 28,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (177.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 171.6960858705706,
+      "elbow_left_smooth": 171.82812841312244
+    }
+  },
+  {
+    "frame": 29,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (178.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 171.8377627814597,
+      "elbow_left_smooth": 171.78707891297591
+    }
+  },
+  {
+    "frame": 30,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 171.28688118288446,
+      "elbow_left_smooth": 171.56141675058112
+    }
+  },
+  {
+    "frame": 31,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 170.90993628331046,
+      "elbow_left_smooth": 171.40319857641708
+    }
+  },
+  {
+    "frame": 32,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 170.9376591505507,
+      "elbow_left_smooth": 171.3336650537552
+    }
+  },
+  {
+    "frame": 33,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 171.3387498475656,
+      "elbow_left_smooth": 171.2621978491542
+    }
+  },
+  {
+    "frame": 34,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 170.78340920119726,
+      "elbow_left_smooth": 171.0513271331017
+    }
+  },
+  {
+    "frame": 35,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 171.6251385366389,
+      "elbow_left_smooth": 171.11897860385258
+    }
+  },
+  {
+    "frame": 36,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 172.36824364463124,
+      "elbow_left_smooth": 171.41064007611675
+    }
+  },
+  {
+    "frame": 37,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 173.8670529167303,
+      "elbow_left_smooth": 171.99651882935262
+    }
+  },
+  {
+    "frame": 38,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 174.89191100362692,
+      "elbow_left_smooth": 172.70715106056494
+    }
+  },
+  {
+    "frame": 39,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (178.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 174.96910499755214,
+      "elbow_left_smooth": 173.5442902198359
+    }
+  },
+  {
+    "frame": 40,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (178.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.39799156020726,
+      "elbow_left_smooth": 174.29886082454956
+    }
+  },
+  {
+    "frame": 41,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.13481699990487,
+      "elbow_left_smooth": 174.85217549560429
+    }
+  },
+  {
+    "frame": 42,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.13144682162758,
+      "elbow_left_smooth": 175.30505427658375
+    }
+  },
+  {
+    "frame": 43,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.94810387444696,
+      "elbow_left_smooth": 175.51629285074776
+    }
+  },
+  {
+    "frame": 44,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.8297052294774,
+      "elbow_left_smooth": 175.8884128971328
+    }
+  },
+  {
+    "frame": 45,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (179.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.57323398372932,
+      "elbow_left_smooth": 176.32346138183723
+    }
+  },
+  {
+    "frame": 46,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (178.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.56243617260296,
+      "elbow_left_smooth": 176.80898521637684
+    }
+  },
+  {
+    "frame": 47,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (176.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.69168064111682,
+      "elbow_left_smooth": 177.5210319802747
+    }
+  },
+  {
+    "frame": 48,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (175.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.3460370765395,
+      "elbow_left_smooth": 178.2006186206932
+    }
+  },
+  {
+    "frame": 49,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (175.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.67814664427627,
+      "elbow_left_smooth": 178.37030690365296
+    }
+  },
+  {
+    "frame": 50,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (175.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.47316113829646,
+      "elbow_left_smooth": 178.5502923345664
+    }
+  },
+  {
+    "frame": 51,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.14675977310856,
+      "elbow_left_smooth": 178.2671570546675
+    }
+  },
+  {
+    "frame": 52,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.93913129606722,
+      "elbow_left_smooth": 177.9166471856576
+    }
+  },
+  {
+    "frame": 53,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.89708060453614,
+      "elbow_left_smooth": 177.82685589125694
+    }
+  },
+  {
+    "frame": 54,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.3180629535671,
+      "elbow_left_smooth": 177.95483915311507
+    }
+  },
+  {
+    "frame": 55,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.70102898498808,
+      "elbow_left_smooth": 177.80041272245342
+    }
+  },
+  {
+    "frame": 56,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.37681713694735,
+      "elbow_left_smooth": 178.04642419522116
+    }
+  },
+  {
+    "frame": 57,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.19737709659378,
+      "elbow_left_smooth": 177.8980733553265
+    }
+  },
+  {
+    "frame": 58,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.37926737479899,
+      "elbow_left_smooth": 177.39451070937906
+    }
+  },
+  {
+    "frame": 59,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.47709221477928,
+      "elbow_left_smooth": 177.02631656162148
+    }
+  },
+  {
+    "frame": 60,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.26504481604437,
+      "elbow_left_smooth": 176.73911972783276
+    }
+  },
+  {
+    "frame": 61,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.12954966834684,
+      "elbow_left_smooth": 176.28966623411264
+    }
+  },
+  {
+    "frame": 62,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.05536779795779,
+      "elbow_left_smooth": 175.86126437438543
+    }
+  },
+  {
+    "frame": 63,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 174.70146240153912,
+      "elbow_left_smooth": 175.52570337973347
+    }
+  },
+  {
+    "frame": 64,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 174.7052972051998,
+      "elbow_left_smooth": 175.17134437781758
+    }
+  },
+  {
+    "frame": 65,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.16788956221083,
+      "elbow_left_smooth": 174.95191332705087
+    }
+  },
+  {
+    "frame": 66,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.83498051804375,
+      "elbow_left_smooth": 175.29299949699026
+    }
+  },
+  {
+    "frame": 67,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.51888671033848,
+      "elbow_left_smooth": 175.7857032794664
+    }
+  },
+  {
+    "frame": 68,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.13453496780483,
+      "elbow_left_smooth": 176.47231779271954
+    }
+  },
+  {
+    "frame": 69,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.76576832775146,
+      "elbow_left_smooth": 177.28441201722984
+    }
+  },
+  {
+    "frame": 70,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.71827199134736,
+      "elbow_left_smooth": 177.99448850305717
+    }
+  },
+  {
+    "frame": 71,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.06948976552408,
+      "elbow_left_smooth": 178.44139035255324
+    }
+  },
+  {
+    "frame": 72,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.9103760805907,
+      "elbow_left_smooth": 178.7196882266037
+    }
+  },
+  {
+    "frame": 73,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.7052308103576,
+      "elbow_left_smooth": 178.83382739511427
+    }
+  },
+  {
+    "frame": 74,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.7796052534625,
+      "elbow_left_smooth": 178.83659478025643
+    }
+  },
+  {
+    "frame": 75,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.5924225619722,
+      "elbow_left_smooth": 178.8114248943814
+    }
+  },
+  {
+    "frame": 76,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.6699012485565,
+      "elbow_left_smooth": 178.73150719098788
+    }
+  },
+  {
+    "frame": 77,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.5569061886251,
+      "elbow_left_smooth": 178.66081321259477
+    }
+  },
+  {
+    "frame": 78,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.43673279814752,
+      "elbow_left_smooth": 178.6071136101528
+    }
+  },
+  {
+    "frame": 79,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.7847881795497,
+      "elbow_left_smooth": 178.4081501953702
+    }
+  },
+  {
+    "frame": 80,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.2777906751483,
+      "elbow_left_smooth": 178.14522381800543
+    }
+  },
+  {
+    "frame": 81,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.25432276257524,
+      "elbow_left_smooth": 177.86210812080918
+    }
+  },
+  {
+    "frame": 82,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.14653019808074,
+      "elbow_left_smooth": 177.58003292270033
+    }
+  },
+  {
+    "frame": 83,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.8660116182241,
+      "elbow_left_smooth": 177.26588868671564
+    }
+  },
+  {
+    "frame": 84,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.6370523274289,
+      "elbow_left_smooth": 177.03634151629146
+    }
+  },
+  {
+    "frame": 85,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.46982551726987,
+      "elbow_left_smooth": 176.87474848471578
+    }
+  },
+  {
+    "frame": 86,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.3118533086527,
+      "elbow_left_smooth": 176.6862545939313
+    }
+  },
+  {
+    "frame": 87,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.24986383181755,
+      "elbow_left_smooth": 176.5069213206786
+    }
+  },
+  {
+    "frame": 88,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.56153532888504,
+      "elbow_left_smooth": 176.4460260628108
+    }
+  },
+  {
+    "frame": 89,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.70820702689045,
+      "elbow_left_smooth": 176.46025700270314
+    }
+  },
+  {
+    "frame": 90,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.0287066708171,
+      "elbow_left_smooth": 176.57203323341258
+    }
+  },
+  {
+    "frame": 91,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.20958526549217,
+      "elbow_left_smooth": 176.75157962478045
+    }
+  },
+  {
+    "frame": 92,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.01747453568632,
+      "elbow_left_smooth": 177.10510176555422
+    }
+  },
+  {
+    "frame": 93,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.62018404046063,
+      "elbow_left_smooth": 177.51683150786934
+    }
+  },
+  {
+    "frame": 94,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.7793581518029,
+      "elbow_left_smooth": 178.13106173285183
+    }
+  },
+  {
+    "frame": 95,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.54126939874428,
+      "elbow_left_smooth": 178.63357427843724
+    }
+  },
+  {
+    "frame": 96,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.2974735630514,
+      "elbow_left_smooth": 179.0511519379491
+    }
+  },
+  {
+    "frame": 97,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.7178746106499,
+      "elbow_left_smooth": 179.19123195294182
+    }
+  },
+  {
+    "frame": 98,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.39341964862712,
+      "elbow_left_smooth": 178.74587907457513
+    }
+  },
+  {
+    "frame": 99,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 171.47145460440572,
+      "elbow_left_smooth": 177.0842983650957
+    }
+  },
+  {
+    "frame": 100,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 166.35340721734778,
+      "elbow_left_smooth": 174.4467259288164
+    }
+  },
+  {
+    "frame": 101,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 161.16172812198963,
+      "elbow_left_smooth": 170.81957684060404
+    }
+  },
+  {
+    "frame": 102,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 155.35750778360028,
+      "elbow_left_smooth": 166.14750347519413
+    }
+  },
+  {
+    "frame": 103,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 146.39805634082805,
+      "elbow_left_smooth": 160.14843081363432
+    }
+  },
+  {
+    "frame": 104,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 137.6495200831791,
+      "elbow_left_smooth": 153.38404390938896
+    }
+  },
+  {
+    "frame": 105,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 128.8110593872734,
+      "elbow_left_smooth": 145.8755743433741
+    }
+  },
+  {
+    "frame": 106,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 117.95648957720093,
+      "elbow_left_smooth": 137.23452663441637
+    }
+  },
+  {
+    "frame": 107,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 110.47575150204736,
+      "elbow_left_smooth": 128.2581753781058
+    }
+  },
+  {
+    "frame": 108,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 103.88726361614074,
+      "elbow_left_smooth": 119.75601683316832
+    }
+  },
+  {
+    "frame": 109,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (171.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 98.606308835861,
+      "elbow_left_smooth": 111.94737458370469
+    }
+  },
+  {
+    "frame": 110,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (171.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 93.71070592953538,
+      "elbow_left_smooth": 104.92730389215708
+    }
+  },
+  {
+    "frame": 111,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (171.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 86.92424385467436,
+      "elbow_left_smooth": 98.72085474765177
+    }
+  },
+  {
+    "frame": 112,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (171.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 81.03860208762666,
+      "elbow_left_smooth": 92.83342486476762
+    }
+  },
+  {
+    "frame": 113,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 74.53586367968613,
+      "elbow_left_smooth": 86.96314487747671
+    }
+  },
+  {
+    "frame": 114,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 70.98007530119003,
+      "elbow_left_smooth": 81.43789817054251
+    }
+  },
+  {
+    "frame": 115,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 65.18582431078114,
+      "elbow_left_smooth": 75.73292184679165
+    }
+  },
+  {
+    "frame": 116,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 61.1265077417989,
+      "elbow_left_smooth": 70.57337462421657
+    }
+  },
+  {
+    "frame": 117,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 56.800754646120225,
+      "elbow_left_smooth": 65.7258051359153
+    }
+  },
+  {
+    "frame": 118,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 52.06490078879188,
+      "elbow_left_smooth": 61.23161255773643
+    }
+  },
+  {
+    "frame": 119,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 47.62595480363203,
+      "elbow_left_smooth": 56.56078845822483
+    }
+  },
+  {
+    "frame": 120,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 45.00411213559273,
+      "elbow_left_smooth": 52.52444602318716
+    }
+  },
+  {
+    "frame": 121,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 43.44328039892197,
+      "elbow_left_smooth": 48.98780055461176
+    }
+  },
+  {
+    "frame": 122,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 42.10387991045879,
+      "elbow_left_smooth": 46.04842560747947
+    }
+  },
+  {
+    "frame": 123,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 38.17409054041981,
+      "elbow_left_smooth": 43.27026355780506
+    }
+  },
+  {
+    "frame": 124,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 35.00888818608721,
+      "elbow_left_smooth": 40.746850234296105
+    }
+  },
+  {
+    "frame": 125,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 33.59542475471432,
+      "elbow_left_smooth": 38.46511275812042
+    }
+  },
+  {
+    "frame": 126,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 32.0305823674077,
+      "elbow_left_smooth": 36.182573151817564
+    }
+  },
+  {
+    "frame": 127,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 30.233530625513016,
+      "elbow_left_smooth": 33.80850329482841
+    }
+  },
+  {
+    "frame": 128,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 28.360567281252607,
+      "elbow_left_smooth": 31.84579864299497
+    }
+  },
+  {
+    "frame": 129,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 27.523468076003265,
+      "elbow_left_smooth": 30.348714620978182
+    }
+  },
+  {
+    "frame": 130,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 26.80006676282096,
+      "elbow_left_smooth": 28.989643022599513
+    }
+  },
+  {
+    "frame": 131,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 26.64801486282879,
+      "elbow_left_smooth": 27.913129521683732
+    }
+  },
+  {
+    "frame": 132,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 26.20790664849376,
+      "elbow_left_smooth": 27.108004726279876
+    }
+  },
+  {
+    "frame": 133,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 26.352909430874792,
+      "elbow_left_smooth": 26.706473156204318
+    }
+  },
+  {
+    "frame": 134,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 26.605925921778862,
+      "elbow_left_smooth": 26.52296472535943
+    }
+  },
+  {
+    "frame": 135,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 26.98467383759857,
+      "elbow_left_smooth": 26.559886140314955
+    }
+  },
+  {
+    "frame": 136,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 27.298977257466284,
+      "elbow_left_smooth": 26.69007861924245
+    }
+  },
+  {
+    "frame": 137,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 27.46738254025035,
+      "elbow_left_smooth": 26.94197379759377
+    }
+  },
+  {
+    "frame": 138,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 27.593621639741023,
+      "elbow_left_smooth": 27.19011623936702
+    }
+  },
+  {
+    "frame": 139,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 27.880657409780625,
+      "elbow_left_smooth": 27.445062536967374
+    }
+  },
+  {
+    "frame": 140,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 27.755838885422783,
+      "elbow_left_smooth": 27.599295546532215
+    }
+  },
+  {
+    "frame": 141,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 26.94922619399615,
+      "elbow_left_smooth": 27.529345333838183
+    }
+  },
+  {
+    "frame": 142,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 26.458354914010904,
+      "elbow_left_smooth": 27.327539808590295
+    }
+  },
+  {
+    "frame": 143,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 26.212148671620046,
+      "elbow_left_smooth": 27.051245214966098
+    }
+  },
+  {
+    "frame": 144,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.743759297056048,
+      "elbow_left_smooth": 26.623865592421186
+    }
+  },
+  {
+    "frame": 145,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.510672540866757,
+      "elbow_left_smooth": 26.174832323509982
+    }
+  },
+  {
+    "frame": 146,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.64780451411709,
+      "elbow_left_smooth": 25.91454798753417
+    }
+  },
+  {
+    "frame": 147,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.81709719874337,
+      "elbow_left_smooth": 25.786296444480662
+    }
+  },
+  {
+    "frame": 148,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.86662927708512,
+      "elbow_left_smooth": 25.717192565573676
+    }
+  },
+  {
+    "frame": 149,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.765830019060463,
+      "elbow_left_smooth": 25.72160670997456
+    }
+  },
+  {
+    "frame": 150,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.262260346234626,
+      "elbow_left_smooth": 25.671924271048134
+    }
+  },
+  {
+    "frame": 151,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.03333240370931,
+      "elbow_left_smooth": 25.549029848966576
+    }
+  },
+  {
+    "frame": 152,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 24.898028682048597,
+      "elbow_left_smooth": 25.365216145627624
+    }
+  },
+  {
+    "frame": 153,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 24.772682846302843,
+      "elbow_left_smooth": 25.146426859471166
+    }
+  },
+  {
+    "frame": 154,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 24.630332396651784,
+      "elbow_left_smooth": 24.919327334989433
+    }
+  },
+  {
+    "frame": 155,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 24.803038927661518,
+      "elbow_left_smooth": 24.82748305127481
+    }
+  },
+  {
+    "frame": 156,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.5566219604519,
+      "elbow_left_smooth": 24.93214096262333
+    }
+  },
+  {
+    "frame": 157,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.639155851087818,
+      "elbow_left_smooth": 25.080366396431174
+    }
+  },
+  {
+    "frame": 158,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.402261918775157,
+      "elbow_left_smooth": 25.206282210925636
+    }
+  },
+  {
+    "frame": 159,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 25.417890919851807,
+      "elbow_left_smooth": 25.36379391556564
+    }
+  },
+  {
+    "frame": 160,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 27.656669583716276,
+      "elbow_left_smooth": 25.93452004677659
+    }
+  },
+  {
+    "frame": 161,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 31.471167918645676,
+      "elbow_left_smooth": 27.117429238415347
+    }
+  },
+  {
+    "frame": 162,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 34.34572653081001,
+      "elbow_left_smooth": 28.85874337435979
+    }
+  },
+  {
+    "frame": 163,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 36.90115756477672,
+      "elbow_left_smooth": 31.158522503560096
+    }
+  },
+  {
+    "frame": 164,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 37.48677945436279,
+      "elbow_left_smooth": 33.572300210462295
+    }
+  },
+  {
+    "frame": 165,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm contracted (top of curl)"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.6\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 41.467015173369624,
+      "elbow_left_smooth": 36.33436932839296
+    }
+  },
+  {
+    "frame": 166,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 48.616224330006744,
+      "elbow_left_smooth": 39.76338061066517
+    }
+  },
+  {
+    "frame": 167,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 52.21519447207685,
+      "elbow_left_smooth": 43.33727419891854
+    }
+  },
+  {
+    "frame": 168,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 56.183255884805945,
+      "elbow_left_smooth": 47.193693862924384
+    }
+  },
+  {
+    "frame": 169,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 64.62622796738674,
+      "elbow_left_smooth": 52.62158356552918
+    }
+  },
+  {
+    "frame": 170,
+    "flags": [
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 75.80896638456555,
+      "elbow_left_smooth": 59.489973807768365
+    }
+  },
+  {
+    "frame": 171,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 92.63925548647791,
+      "elbow_left_smooth": 68.2945800390626
+    }
+  },
+  {
+    "frame": 172,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 145.7500450050307,
+      "elbow_left_smooth": 87.00155014565337
+    }
+  },
+  {
+    "frame": 173,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.78375900930473,
+      "elbow_left_smooth": 111.12165077055313
+    }
+  },
+  {
+    "frame": 174,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (172.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 173.6230169431503,
+      "elbow_left_smooth": 132.92100856570585
+    }
+  },
+  {
+    "frame": 175,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 174.67934466390162,
+      "elbow_left_smooth": 152.69508422157304
+    }
+  },
+  {
+    "frame": 176,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 170.49049796283825,
+      "elbow_left_smooth": 168.2653327168451
+    }
+  },
+  {
+    "frame": 177,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 169.5439778825369,
+      "elbow_left_smooth": 173.02411929234637
+    }
+  },
+  {
+    "frame": 178,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 167.94446036196095,
+      "elbow_left_smooth": 171.2562595628776
+    }
+  },
+  {
+    "frame": 179,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 168.54060119788934,
+      "elbow_left_smooth": 170.2397764138254
+    }
+  },
+  {
+    "frame": 180,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 170.77065109359864,
+      "elbow_left_smooth": 169.45803769976482
+    }
+  },
+  {
+    "frame": 181,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 172.87002039014848,
+      "elbow_left_smooth": 169.93394218522687
+    }
+  },
+  {
+    "frame": 182,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 173.9730787823357,
+      "elbow_left_smooth": 170.81976236518662
+    }
+  },
+  {
+    "frame": 183,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 174.1688564508586,
+      "elbow_left_smooth": 172.06464158296617
+    }
+  },
+  {
+    "frame": 184,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 174.75548903606426,
+      "elbow_left_smooth": 173.30761915060117
+    }
+  },
+  {
+    "frame": 185,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.2643668102643,
+      "elbow_left_smooth": 174.2063622939343
+    }
+  },
+  {
+    "frame": 186,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.97751456898385,
+      "elbow_left_smooth": 174.82786112970135
+    }
+  },
+  {
+    "frame": 187,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.60697907308844,
+      "elbow_left_smooth": 175.35464118785188
+    }
+  },
+  {
+    "frame": 188,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.50199730170314,
+      "elbow_left_smooth": 176.0212693580208
+    }
+  },
+  {
+    "frame": 189,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.07490341818763,
+      "elbow_left_smooth": 176.68515223444547
+    }
+  },
+  {
+    "frame": 190,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.5\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.23991330379582,
+      "elbow_left_smooth": 177.28026153315176
+    }
+  },
+  {
+    "frame": 191,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.4083036727731,
+      "elbow_left_smooth": 177.7664193539096
+    }
+  },
+  {
+    "frame": 192,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.16340388598485,
+      "elbow_left_smooth": 178.0777043164889
+    }
+  },
+  {
+    "frame": 193,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.61885704907445,
+      "elbow_left_smooth": 178.10107626596317
+    }
+  },
+  {
+    "frame": 194,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.77725449114305,
+      "elbow_left_smooth": 177.84154648055426
+    }
+  },
+  {
+    "frame": 195,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.04683620906556,
+      "elbow_left_smooth": 177.40293106160817
+    }
+  },
+  {
+    "frame": 196,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.94108410038478,
+      "elbow_left_smooth": 176.90948714713053
+    }
+  },
+  {
+    "frame": 197,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.0306373052011,
+      "elbow_left_smooth": 176.48293383097376
+    }
+  },
+  {
+    "frame": 198,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.7359120305214,
+      "elbow_left_smooth": 176.10634482726317
+    }
+  },
+  {
+    "frame": 199,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.84220231287463,
+      "elbow_left_smooth": 175.9193343916095
+    }
+  },
+  {
+    "frame": 200,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.9358654209761,
+      "elbow_left_smooth": 175.8971402339916
+    }
+  },
+  {
+    "frame": 201,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.00885729146566,
+      "elbow_left_smooth": 175.91069487220778
+    }
+  },
+  {
+    "frame": 202,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.97903330656231,
+      "elbow_left_smooth": 175.90037407248002
+    }
+  },
+  {
+    "frame": 203,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.94480857089496,
+      "elbow_left_smooth": 175.94215338055474
+    }
+  },
+  {
+    "frame": 204,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.00610227724164,
+      "elbow_left_smooth": 175.97493337342814
+    }
+  },
+  {
+    "frame": 205,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.10597681528913,
+      "elbow_left_smooth": 176.00895565229075
+    }
+  },
+  {
+    "frame": 206,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.0\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.00315284607905,
+      "elbow_left_smooth": 176.0078147632134
+    }
+  },
+  {
+    "frame": 207,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.9547964033347,
+      "elbow_left_smooth": 176.00296738256787
+    }
+  },
+  {
+    "frame": 208,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.88360740642133,
+      "elbow_left_smooth": 175.99072714967318
+    }
+  },
+  {
+    "frame": 209,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.85416022767555,
+      "elbow_left_smooth": 175.96033873975995
+    }
+  },
+  {
+    "frame": 210,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.82581117919074,
+      "elbow_left_smooth": 175.90430561254027
+    }
+  },
+  {
+    "frame": 211,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.79359458725142,
+      "elbow_left_smooth": 175.86239396077474
+    }
+  },
+  {
+    "frame": 212,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.83795727141728,
+      "elbow_left_smooth": 175.83902613439128
+    }
+  },
+  {
+    "frame": 213,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.8\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.91974955048602,
+      "elbow_left_smooth": 175.8462545632042
+    }
+  },
+  {
+    "frame": 214,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.8176936912088,
+      "elbow_left_smooth": 175.83896125591085
+    }
+  },
+  {
+    "frame": 215,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.81790771537263,
+      "elbow_left_smooth": 175.8373805631472
+    }
+  },
+  {
+    "frame": 216,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.73476734583417,
+      "elbow_left_smooth": 175.82561511486375
+    }
+  },
+  {
+    "frame": 217,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.69663214212244,
+      "elbow_left_smooth": 175.7973500890048
+    }
+  },
+  {
+    "frame": 218,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.79014404719985,
+      "elbow_left_smooth": 175.7714289883476
+    }
+  },
+  {
+    "frame": 219,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 175.95782279475972,
+      "elbow_left_smooth": 175.79945480905775
+    }
+  },
+  {
+    "frame": 220,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.61318763237313,
+      "elbow_left_smooth": 175.95851079245784
+    }
+  },
+  {
+    "frame": 221,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.88214681947753,
+      "elbow_left_smooth": 176.18798668718654
+    }
+  },
+  {
+    "frame": 222,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.1831809401658,
+      "elbow_left_smooth": 176.4852964467952
+    }
+  },
+  {
+    "frame": 223,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 177.54281103375146,
+      "elbow_left_smooth": 176.83582984410552
+    }
+  },
+  {
+    "frame": 224,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.23933281867778,
+      "elbow_left_smooth": 177.29213184888914
+    }
+  },
+  {
+    "frame": 225,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 179.8081643253156,
+      "elbow_left_smooth": 177.93112718747764
+    }
+  },
+  {
+    "frame": 226,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.4\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 178.37249022157073,
+      "elbow_left_smooth": 178.2291958678963
+    }
+  },
+  {
+    "frame": 227,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.936844788604,
+      "elbow_left_smooth": 178.1799286375839
+    }
+  },
+  {
+    "frame": 228,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.74455788737964,
+      "elbow_left_smooth": 178.02027800830956
+    }
+  },
+  {
+    "frame": 229,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.3\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 176.34218320257744,
+      "elbow_left_smooth": 177.64084808508946
+    }
+  },
+  {
+    "frame": 230,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 174.04967074073159,
+      "elbow_left_smooth": 176.48914936817266
+    }
+  },
+  {
+    "frame": 231,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.2\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 169.79105594938505,
+      "elbow_left_smooth": 174.77286251373556
+    }
+  },
+  {
+    "frame": 232,
+    "flags": [
+      {
+        "rule": "bicep_curl_left",
+        "msg": "Arm fully extended (bottom position)"
+      },
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (174.1\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 162.43772564126834,
+      "elbow_left_smooth": 171.8730386842684
+    }
+  },
+  {
+    "frame": 233,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.9\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 150.38629935982163,
+      "elbow_left_smooth": 166.6013869787568
+    }
+  },
+  {
+    "frame": 234,
+    "flags": [
+      {
+        "rule": "lateral_raise_left",
+        "msg": "Wrist not at shoulder height"
+      },
+      {
+        "rule": "posture_symmetry",
+        "msg": "Back leaning (173.7\u00b0)"
+      }
+    ],
+    "angles": {
+      "elbow_left_raw": 138.97598355452388,
+      "elbow_left_smooth": 159.1281470491461
+    }
+  }
+]
